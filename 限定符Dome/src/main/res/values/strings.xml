@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Dome</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_leftfragment">LeftFragment</string>
+    <string name="hello_blank_rightfragment">RightFragment</string>
+</resources>
